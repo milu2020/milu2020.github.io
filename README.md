@@ -1,24 +1,8 @@
-# Libretto - Jekyll Theme
+【米鹿故事本】说明和介绍
 
-Libretto is a responsive one-column Jekyll theme with classic styling and careful typographic details.
+小小掌上APP，集合大大的儿童故事。妈妈们可以下载来使用，打开并给孩子们讲故事。
+它还可以自己朗读，放在孩子床头，让孩子自己听故事入睡。
+除此之外，还包含很多给妈妈看的实用宝典。
+由于本人资源有限，免费做这个APP，很不容易，所以素材有点模糊，因为服务器的原因，没有很大的磁盘空间，所以将就一下，以后升级云盘空间再优化。
 
-Based on the [Libretto Wordpress theme](https://wordpress.org/themes/libretto/).
-
-## Install and Test
-
-1. Download or clone the repo
-  - `git clone git@github.com:ferrolho/jekyll-theme-libretto.git`
-2. Enter the folder
-  - `cd jekyll-theme-libretto/`
-3. Start Jekyll server
-  - `jekyll serve --watch`
-4. Access via
-  - http://127.0.0.1:4000/jekyll-theme-libretto/
-
-## Demo
-
-- https://ferrolho.github.io/jekyll-theme-libretto/
-
-## Preview
-
-![Theme preview](http://i.imgur.com/2ZCmoKo.png)
+可以联系我：3579519471
